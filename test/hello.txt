@@ -4,4 +4,8 @@ this is second change from dev-branch
 
 now the line added
 
+
+added newchanges from dev-branch
+
 changes from master
+
